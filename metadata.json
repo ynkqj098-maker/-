@@ -1,0 +1,5 @@
+{
+  "name": "Health Observation App",
+  "description": "A simple application to log your daily health status, including temperature, mood, and symptoms, and get AI-powered encouragement.",
+  "requestFramePermissions": []
+}
